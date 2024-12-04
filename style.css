@@ -1,5 +1,5 @@
 .banner {
-    background: url("Store\ pic.jpg") no-repeat center center;
+    background: url("pic.jpg") no-repeat center center;
     background-size: cover;
     padding-top: 25%;
     padding-bottom: 25%;
@@ -31,7 +31,7 @@
 } 
 
 .Contact {
-    background: url(Store\ pic.jpg) no-repeat center center;
+    background: url(pic.jpg) no-repeat center center;
     background-size: cover;
     padding-bottom: 5%;
     padding-top: 5%;
